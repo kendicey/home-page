@@ -2,7 +2,7 @@
   "name": "home-page",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kendicey.github.io/home-page",
+  "homepage": "https://kendicey.github.io/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
     "@fortawesome/free-brands-svg-icons": "^6.4.0",
