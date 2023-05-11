@@ -25,10 +25,10 @@ const Home = () => (
             <div className='card' style={{borderRadius: "20px", borderColor: "rgba(62, 175, 181, 0.2)"}}>
                 <div className='card-body' style={{padding: "3rem 3rem 0 3rem"}}>
                     <div className='row'>
-                        <div className='col-4'>
+                        <div className='col-12 col-lg-4' style={{marginBottom: "2.5rem"}}>
                             <img src='https://avatars.githubusercontent.com/u/86147831?s=400&u=93c04f21985921916a03817c77317e7c2024e9e7&v=4' alt='Kendice' className='img-fluid' id='profile_image'/>
                         </div>
-                        <div className='col-8'>
+                        <div className='col-12 col-lg-8'>
                             <h5 className='card-title'>About Me</h5>
                             <p className='card-text'>
                                 Dedicated information and communication technology student with experience in web technologies and APIs.
