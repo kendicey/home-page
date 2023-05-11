@@ -41,7 +41,7 @@
                     "Developed routes and related components in the React frontend",
                     "Designed and implemented UI with CSS",
                     "Created local JSON file with 30 meals' details for data fetching"],
-            "technologies": "React.js, Express.js, Co:here"
+            "technologies": "HTML, CSS, JavaScript, React.js, Express.js, Node.js, MongoDB"
         }
     ]
 }
