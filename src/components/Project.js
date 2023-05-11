@@ -1,7 +1,7 @@
 import React, {useEffect, useState} from 'react';
 
 const ProjectCard = (props) => (
-    <div className='card project' style={{margin: "3rem", padding: "1.5rem"}}>
+    <div className='card project' style={{margin: "3rem 0", padding: "1.5rem"}}>
         <div className='card-body'></div>
             <div className='row'>
                 <div className='col-md-12 col-lg-5'>
