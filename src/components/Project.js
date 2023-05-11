@@ -1,7 +1,7 @@
 import React, {useEffect, useState} from 'react';
 
 const ProjectCard = (props) => (
-    <div className='card project' style={{margin: "3rem 0", padding: "1.5rem"}}>
+    <div className='card project' style={{margin: "3rem 0.5rem", padding: "1.5rem"}}>
         <div className='card-body'></div>
             <div className='row'>
                 <div className='col-md-12 col-lg-5'>
@@ -28,7 +28,7 @@ const Project = (props) => {
         <div className='projects'>
             <div className='title'>
                 <h2>My Projects</h2>
-                <p>Welcome to my project gallery! Explore my previous projects to see examples of my work (* •̀ᴗ•́ *)و ̑̑</p>
+                <p>Welcome to my project gallery! Explore my previous projects to see examples of my work <span style={{whiteSpace: "nowrap"}}>(* •̀ᴗ•́ *)و ̑̑</span></p>
             </div>
                 {console.log(projects[0].props.projects)}
                 {projects[0].props.projects.map((project) => 
