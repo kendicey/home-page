@@ -85,11 +85,12 @@ const Home = () => (
                             </p>
                             <h5 className='card-title' style={{marginTop: "4rem"}}>Certification</h5>
                             <p className='card-text' style={{marginBottom: "0"}}><span className="bold">Meta Back-End Developer Professional Certificate (in-progress)</span></p>
-                            <span>3 out of 9 courses completed:</span>
+                            <span>4 out of 9 courses completed:</span>
                             <ul style={{marginBottom: "1.5rem"}}>
                                 <li>Introduction to Back-End Development</li>
                                 <li>Introduction to Databases for Back-End Development</li>
                                 <li>Programming in Python</li>
+                                <li>Version Control</li>
                             </ul>
                         </div>
                     </div>
