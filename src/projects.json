@@ -15,7 +15,7 @@
             "name": "KidsPedia",
             "url": "https://devpost.com/software/kidspedia",
             "image": "https://github.com/HSKPeter/KidsPedia/blob/main/docs/screenshot.png?raw=true",
-            "description": "Leveraging on the ChatGPT technology of OpenAI, KidsPedia provides simple and easy-to-understand answers with metaphors to kids' questions. From apples to theory of relativity, KidsPedia explains them all! To enhance searching experiences, KidsPedia includes a read-out function to read out the answers to kids' questions. To fasten the search process, KidsPedia also stores search records in a database.",
+            "description": "Leveraging on the ChatGPT technology of OpenAI, KidsPedia provides simple and easy-to-understand answers with metaphors to kids' questions. From apples to theory of relativity, KidsPedia explains them all! To enhance searching experiences, KidsPedia includes a read-out function to read out the answers to kids' questions. To speed up the search process, KidsPedia also stores search records in a database.",
             "works": ["Worked in a team of 2 to complete a web application within 24 hours in the nwHacks 2023 hackathon",
                     "Developed backend environment with Express.js and the OpenAI API"],
             "technologies": "React.js, JavaScript, Express.js, OpenAI, PostgreSQL, Azure, Docker"

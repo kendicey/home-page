@@ -12,6 +12,16 @@
   opacity: 0.95;
 }
 
+.navbar-brand {
+  color: rgb(57, 161, 148);
+  text-shadow: 0 0 3px #7df5e7;
+}
+
+.navbar-brand:hover {
+  color: rgb(57, 161, 148);
+  text-shadow: 0 0 3px #7df5e7;
+}
+
 .navbar-collapse {
   display: flex;
   justify-content: end;
@@ -100,8 +110,6 @@ h1, h2, h3, h4, h5, h6, .card-title {
 .projectImg:hover::after {
   transform: scaleX(1);
 }
-
-
 h6 {
   text-indent: -0.5rem;
 }
