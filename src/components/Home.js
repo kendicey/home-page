@@ -31,10 +31,7 @@ const Home = () => (
                         <div className='col-12 col-lg-8' style={{paddingLeft: "1.5rem"}}>
                             <h5 className='card-title'>About Me</h5>
                             <p className='card-text'>
-                                Dedicated information and communication technology student at Douglas College with experience in web technologies and APIs.
-                                Skilled in using HTML, CSS, React, Node.js, Express.js, SQL, and MongoDB.
-                                Passionate about leveraging different APIs to build innovative solutions, with a particular interest in AI APIs. Strong problem-solving abilities, attention to detail, and a team player.
-                                Eager to contribute to a dynamic team and continually learn new technologies to advance my career.
+                                Dedicated information and communication technology student with experience in web technologies and APIs. Skilled in using HTML, CSS, Bootstrap, React.js, Node.js, Express.js, SQL, and MongoDB. Passionate about new technologies including AI and Blockchain. A curious fast learner, a team player, and a tea lover.
                             </p>
                             <h5 className='card-title' style={{marginTop: "4rem"}}>Skills</h5>
                             <div className='d-flex flex-wrap flex-row justify-content-between mb-4'>
