@@ -16,7 +16,8 @@
             "url": "",
             "image": "",
             "description": "An educational search website leveraging on ChatGPT 3.5 technology.",
-            "works": ["Follow a UI designer's high fidelity wireframe to build the frontend with React.js and MaterialUI",
+            "works": ["Work in a team of two developers and a UI/UX designer to build an AI-driven educational search website",
+                    "Follow a UI designer's high fidelity wireframe to build the frontend with TypeScript, React.js and MaterialUI",
                     "Establish the backend API connection using Python with FastAPI and the OpenAI API"],
             "technologies": "React.js, MaterialUI, TypeScript, HTML, CSS, FastAPI, OpenAI"
         },
