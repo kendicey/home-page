@@ -12,8 +12,6 @@ import python from '../assets/python.png';
 import react from '../assets/react.png';
 import sql from '../assets/sql.png';
 import typescript from '../assets/typescript.png';
-import { type } from '@testing-library/user-event/dist/type';
-
 
 const Home = () => (
     <div className='container'>
@@ -31,7 +29,7 @@ const Home = () => (
                         <div className='col-12 col-lg-8' style={{paddingLeft: "1.5rem"}}>
                             <h5 className='card-title'>About Me</h5>
                             <p className='card-text'>
-                                Dedicated information and communication technology student with experience in web technologies and APIs. Skilled in using HTML, CSS, Bootstrap, React.js, Node.js, Express.js, SQL, and MongoDB. Passionate about new technologies including AI and Blockchain. A curious fast learner, a team player, and a tea lover.
+                                Dedicated information and communication technology student with experience in web technologies and APIs. Skilled in using HTML, CSS, Bootstrap, React.js, Node.js, Express.js, SQL, and MongoDB. Passionate about emerging technologies including AI and Blockchain. A curious fast learner, a team player, and a tea lover &#127861;
                             </p>
                             <h5 className='card-title' style={{marginTop: "4rem"}}>Skills</h5>
                             <div className='d-flex flex-wrap flex-row justify-content-between mb-4'>
