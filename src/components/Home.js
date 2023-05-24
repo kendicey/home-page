@@ -29,7 +29,7 @@ const Home = () => (
                         <div className='col-12 col-lg-8' style={{paddingLeft: "1.5rem"}}>
                             <h5 className='card-title'>About Me</h5>
                             <p className='card-text'>
-                                Dedicated information and communication technology student with experience in web technologies and APIs. Skilled in using HTML, CSS, Bootstrap, React.js, Node.js, Express.js, SQL, and MongoDB. Passionate about emerging technologies including AI and Blockchain. A curious fast learner, a team player, and a tea lover &#127861;.
+                                Dedicated information and communication technology student with experience in web technologies and APIs. Skilled in using HTML, CSS, Bootstrap, React.js, Node.js, Express.js, SQL, and MongoDB. Passionate about emerging technologies including AI and Blockchain. A curious fast learner, a team player, and a tea lover &#x1F375;
                             </p>
                             <h5 className='card-title' style={{marginTop: "4rem"}}>Skills</h5>
                             <div className='d-flex flex-wrap flex-row justify-content-between mb-4'>
