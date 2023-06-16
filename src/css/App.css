@@ -55,6 +55,11 @@ h1, h2, h3, h4, h5, h6, .card-title {
   border-radius: 20px;
 }
 
+.p-2 {
+  width: 230px;
+  margin-right: 2rem;
+}
+
 .project {
   background: #ffffff;
   border: 0;

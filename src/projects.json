@@ -7,7 +7,7 @@
             "image": "https://github.com/kendicey/mark-six-lottery-numbers-generator-REACT/blob/main/docs/preview.png?raw=true",
             "description": "This project is a Mark Six lottery number generator, designed to assist players in generating 6 unique numbers for the popular game organized by the Hong Kong Jockey Club. Inspired by my mom's frequent requests for lucky numbers, I created this program to empower her to generate numbers independently. With this tool, players can easily and quickly generate their own sets of numbers for the Mark Six lottery game.",
             "works": ["Built a website to generate numbers for a Hong Kong lottery game with HTML, CSS, JavaScript, and React.js",
-                    "Designed user interface"],
+                    "Designed user interface and implemented responsive design with CSS"],
             "technologies": "React.js, JavaScript, HTML, CSS"
         },
         {
@@ -18,7 +18,8 @@
             "description": "An educational search website leveraging on ChatGPT 3.5 technology.",
             "works": ["Work in a team of two developers and a UI/UX designer to build an AI-driven educational search website",
                     "Follow a UI designer's high fidelity wireframe to build the frontend with TypeScript, React.js and MaterialUI",
-                    "Establish the backend API connection using Python with FastAPI and the OpenAI API"],
+                    "Establish the backend API connection using Python with FastAPI and the OpenAI API",
+                    "Currently working on the connection between React frontend and FastAPI backend."],
             "technologies": "React.js, MaterialUI, TypeScript, HTML, CSS, FastAPI, OpenAI"
         },
         {
@@ -39,9 +40,9 @@
             "image": "https://github.com/kendicey/kendicey.github.io/blob/main/src/assets/cmd_preview.png?raw=true",
             "description": "A web app let user answer the question 'How was your day today?' and returns a spotify playlist that matches user's mood.",
             "works": ["Worked in a team of 4 to complete a web application in cmd-f 2023 hackathon",
-                    "Developed backend with Express.js and Cohere AI API",
+                    "Developed backend with Express.js and Cohere AI's Classify API",
                     "Built connection between React frontend and Express.js backend"],
-            "technologies": "React.js, Express.js, Co:here"
+            "technologies": "React.js, Express.js, Cohere"
         },
         {
             "id": 5,
@@ -52,7 +53,8 @@
             "works": ["Worked in a team of 3 to complete a MERN application for CSIS3380 Full Stack Development with JavaScript",
                     "Developed routes and related components in the React frontend",
                     "Designed and implemented UI with CSS",
-                    "Created local JSON file with 30 meals' details for data fetching"],
+                    "Created local JSON file with 30 meals' details for data fetching",
+                    "Selected as one of the top three projects in the class."],
             "technologies": "HTML, CSS, JavaScript, React.js, Express.js, Node.js, MongoDB"
         }
     ]
