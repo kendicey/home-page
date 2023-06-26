@@ -2,6 +2,28 @@
     "projects": [
         {
             "id": 1,
+            "name": "Recycle Star",
+            "url": "https://devpost.com/software/recycle-star",
+            "image": "https://github.com/kendicey/Recycle-Star/blob/main/docs/preview.png?raw=true",
+            "description": "Recognizing the difficulties many newcomers face in understanding the recycling system and the disparities between their home countries and Canada, Recycle Star aims to provide a user-friendly and interactive website that serves as a comprehensive resource, addressing the specific needs of newcomers. To ensure accessibility for users with color blindness, Recycle Star has been thoughtfully designed with color-blind-friendly colors.",
+            "works": ["Worked in a team of 3 to build a website within 48 hours in WaffleHacks 2023",
+                    "Followed designers' Figma design to code the website will HTML, CSS, Bootstrap, and JavaScript",
+                    "Designed and built the 'Recycle Mission' mini game using JavaScript and HTML Drag-and-Drop API"],
+            "technologies": "HTML, CSS, Bootstrap, JavaScript"
+        },{
+            "id": 2,
+            "name": "AskAiden (currently working in private repo)",
+            "url": "",
+            "image": "",
+            "description": "An educational search website leveraging on ChatGPT 3.5 technology.",
+            "works": ["Work in a team of two developers and a UI/UX designer to build an AI-driven educational search website",
+                    "Follow a UI designer's high fidelity wireframe to build the frontend with TypeScript, React.js and MaterialUI",
+                    "Establish the backend API connection using Python with FastAPI and the OpenAI API",
+                    "Currently working on the connection between React frontend and FastAPI backend"],
+            "technologies": "React.js, MaterialUI, TypeScript, HTML, CSS, FastAPI, OpenAI"
+        },
+        {
+            "id": 3,
             "name": "Mark Six Lottery Numbers Generator",
             "url": "https://github.com/kendicey/mark-six-lottery-numbers-generator-REACT",
             "image": "https://github.com/kendicey/mark-six-lottery-numbers-generator-REACT/blob/main/docs/preview.png?raw=true",
@@ -11,19 +33,7 @@
             "technologies": "React.js, JavaScript, HTML, CSS"
         },
         {
-            "id": 2,
-            "name": "AskAiden (currently working in private repo)",
-            "url": "",
-            "image": "",
-            "description": "An educational search website leveraging on ChatGPT 3.5 technology.",
-            "works": ["Work in a team of two developers and a UI/UX designer to build an AI-driven educational search website",
-                    "Follow a UI designer's high fidelity wireframe to build the frontend with TypeScript, React.js and MaterialUI",
-                    "Establish the backend API connection using Python with FastAPI and the OpenAI API",
-                    "Currently working on the connection between React frontend and FastAPI backend."],
-            "technologies": "React.js, MaterialUI, TypeScript, HTML, CSS, FastAPI, OpenAI"
-        },
-        {
-            "id": 3,
+            "id": 4,
             "name": "KidsPedia",
             "url": "https://devpost.com/software/kidspedia",
             "image": "https://github.com/HSKPeter/KidsPedia/blob/main/docs/screenshot.png?raw=true",
@@ -34,7 +44,7 @@
             "technologies": "React.js, JavaScript, Express.js, OpenAI, PostgreSQL, Azure, Docker"
         },
         {
-            "id": 4,
+            "id": 5,
             "name": "Daily Mood Playlist Generator",
             "url": "https://github.com/elise-green/cmd-f-hackathon-2023",
             "image": "https://github.com/kendicey/kendicey.github.io/blob/main/src/assets/cmd_preview.png?raw=true",
@@ -45,7 +55,7 @@
             "technologies": "React.js, Express.js, Cohere"
         },
         {
-            "id": 5,
+            "id": 6,
             "name": "3380 Prairie Sky Café Online Ordering System",
             "url": "https://github.com/BenTsui2023/csis3380-final-project",
             "image": "https://github.com/BenTsui2023/csis3380-final-project/blob/main/doc/project_preview.png?raw=true",
