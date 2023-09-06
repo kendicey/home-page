@@ -29,7 +29,8 @@
             "image": "https://github.com/kendicey/mark-six-lottery-numbers-generator-REACT/blob/main/docs/preview.png?raw=true",
             "description": "This project is a Mark Six lottery number generator, designed to assist players in generating 6 unique numbers for the popular game organized by the Hong Kong Jockey Club. Inspired by my mom's frequent requests for lucky numbers, I created this program to empower her to generate numbers independently. With this tool, players can easily and quickly generate their own sets of numbers for the Mark Six lottery game.",
             "works": ["Built a website to generate numbers for a Hong Kong lottery game with HTML, CSS, JavaScript, and React.js",
-                    "Designed user interface and implemented responsive design with CSS"],
+                    "Designed user interface and implemented responsive design with CSS",
+                    "Deployed website with Vercel"],
             "technologies": "React.js, JavaScript, HTML, CSS"
         },
         {

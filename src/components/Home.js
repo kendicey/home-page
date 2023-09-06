@@ -44,7 +44,10 @@ const Home = () => (
                         <div className='col-12 col-lg-8' style={{paddingLeft: "1.5rem"}}>
                             <h5 className='card-title'>About Me</h5>
                             <p className='card-text'>
-                                Dedicated information and communication technology student with experience in web technologies and APIs. Skilled in using HTML, CSS, Bootstrap, React.js, Node.js, Express.js, SQL, and MongoDB. Passionate about emerging technologies including AI and Blockchain. A curious fast learner, a team player, and a tea lover &#x1F375;
+                                I am a recent graduate specializing in information and communication technology, with a strong background in web technologies. Over the course of my academic journey, I have seamlessly transitioned from being a proficient office administrator with four years of hands-on experience to a skilled software developer. My professional evolution reflects my commitment to growth and adaptability.
+                            </p>
+                            <p>
+                                My enthusiasm for cutting-edge technologies is evident through my deep-seated passion for exploring novel advancements, particularly in the realm of AI. I consider myself a motivated and inquisitive individual, driven by a relentless desire to learn. Beyond formal education, I actively seek opportunities to broaden my skill set, ensuring that I remain at the forefront of industry trends and developments.
                             </p>
                             <h5 className='card-title' style={{marginTop: "4rem"}}>Skills</h5>
                             <div className='d-flex flex-wrap flex-row justify-content-start mb-3'>
