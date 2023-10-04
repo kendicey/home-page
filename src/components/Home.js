@@ -26,7 +26,7 @@ import vercel from '../assets/vercel.png';
 import render from '../assets/render.png';
 import docker from '../assets/docker.png';
 import graphql from '../assets/graphql.png';
-import lambda from '../assets/lambda.png';
+import aws from '../assets/aws.png';
 import angular from '../assets/angular.png';
 
 const Home = () => (
@@ -94,7 +94,7 @@ const Home = () => (
                                         <div><img src={vercel} alt='vercel logo' /></div><li>Vercel</li>
                                         <div><img src={render} alt='render.com logo' /></div><li>Render.com</li>
                                         <div><img src={docker} alt='docker logo' /></div><li>Docker</li>
-                                        <div><img src={lambda} alt='aws lambda logo' /></div><li>AWS Lambda</li>
+                                        <div><img src={aws} alt='aws logo' style={{height: '2rem'}} /></div><li>AWS</li>
                                     </ul>
                                 </div>
                                 <div className='p-2'>
