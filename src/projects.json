@@ -4,13 +4,13 @@
             "id": 1,
             "name": "AskAiden",
             "url": "https://ask-aiden-ui.vercel.app/",
-            "image": "",
+            "image": "https://s3.us-west-2.amazonaws.com/kendicey.io/askaiden.png",
             "description": "Responsive web app to address accessibility challenges and empower those who are not tech-savvy to effortlessly harness the power of AI. Recognizing the difficulties individuals face in effectively communicating with ChatGPT, especially when it comes to writing suitable prompts, Aiden, the friendly whale, offers invaluable assistance in your interactions with ChatGPT. With Aiden's support, users can create effective prompts and customize answer styles for remarkable results!",
             "works": ["Worked in a team of two developers and a UI/UX designer to build an AI-driven educational search website",
                     "Followed a UI designer's high fidelity prototype o Figma to build the frontend with TypeScript, React.js and MaterialUI",
                     "Established the backend API connection using Python with FastAPI and the OpenAI API",
                     "Configured project's Lambda function on AWS"],
-            "technologies": "React.js, MaterialUI, TypeScript, HTML, CSS, FastAPI, OpenAI, AWS Lambda"
+            "technologies": ["react", "materialui", "typescript", "html", "css", "fastapi", "openai", "lambda"]
         },
         {
             "id": 2,
@@ -21,7 +21,7 @@
             "works": ["Worked in a team of 2 to complete a web application within 24 hours in the nwHacks 2023 hackathon",
                     "Developed backend environment with Express.js and the OpenAI API",
                     "Worked on the frontend using React.js"],
-            "technologies": "React.js, JavaScript, Express.js, OpenAI, PostgreSQL, Azure, Docker"
+            "technologies": ["react", "javascript", "express", "openai", "postgresql", "azure", "docker"]
         },
         {
             "id": 3,
@@ -34,7 +34,7 @@
                     "Designed and implemented UI with CSS",
                     "Created local JSON file with 30 meals' details for data fetching",
                     "Selected as one of the top three projects in the class."],
-            "technologies": "HTML, CSS, JavaScript, React.js, Express.js, Node.js, MongoDB"
+            "technologies": ["html", "css", "javascript", "react", "express", "node", "mongodb"]
         },
         {
             "id": 4,
@@ -45,7 +45,7 @@
             "works": ["Worked in a team of 4 to complete a web application in cmd-f 2023 hackathon",
                     "Developed backend with Express.js and Cohere AI's Classify API",
                     "Built connection between React frontend and Express.js backend"],
-            "technologies": "React.js, Express.js, Cohere"
+            "technologies": ["react", "express", "cohere"]
         },
         {
             "id": 5,
@@ -56,7 +56,7 @@
             "works": ["Worked in a team of 3 to build a website within 48 hours in WaffleHacks 2023",
                     "Followed designers' Figma design to code the website will HTML, CSS, Bootstrap, and JavaScript",
                     "Designed and built the 'Recycle Mission' mini game using JavaScript and HTML Drag-and-Drop API"],
-            "technologies": "HTML, CSS, Bootstrap, JavaScript"
+            "technologies": ["html", "css", "bootstrap", "javascript"]
         },
         {
             "id": 6,
@@ -67,7 +67,7 @@
             "works": ["Built a website to generate numbers for a Hong Kong lottery game with HTML, CSS, JavaScript, and React.js",
                     "Designed user interface and implemented responsive design with CSS",
                     "Deployed website with Vercel"],
-            "technologies": "React.js, JavaScript, HTML, CSS"
+            "technologies": ["react", "javascript", "html", "css"]
         }
     ]
 }
