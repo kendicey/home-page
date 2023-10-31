@@ -55,6 +55,7 @@ const Home = () => (
                                         <div><img src="https://s3.us-west-2.amazonaws.com/kendicey.io/node.png" alt='nodejs logo' /></div><li>Node.js</li>
                                         <div><img src="https://s3.us-west-2.amazonaws.com/kendicey.io/express.png" alt='express logo' style={{height: '1rem'}}/></div><li>Express.js</li>
                                         <div><img src="https://s3.us-west-2.amazonaws.com/kendicey.io/fastapi.png" alt='fastapi logo' /></div><li>FastAPI</li>
+                                        <div><img src="https://s3.us-west-2.amazonaws.com/kendicey.io/flask.png" alt='flask logo' /></div><li>Flask</li>
                                         <div><img src="https://s3.us-west-2.amazonaws.com/kendicey.io/django.png" alt='django logo' /></div><li>Django</li>
                                         <div><img src="https://s3.us-west-2.amazonaws.com/kendicey.io/graphql.png" alt='graphql logo'/></div><li>GraphQL</li>
                                     </ul>
