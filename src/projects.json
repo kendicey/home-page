@@ -40,7 +40,7 @@
             "id": 4,
             "name": "Daily Mood Playlist Generator",
             "url": "https://github.com/elise-green/cmd-f-hackathon-2023",
-            "image": "https://github.com/kendicey/kendicey.github.io/blob/main/src/assets/cmd_preview.png?raw=true",
+            "image": "https://s3.us-west-2.amazonaws.com/kendicey.io/cmd_preview.png",
             "description": "A web app let user answer the question 'How was your day today?' and returns a spotify playlist that matches user's mood.",
             "works": ["Worked in a team of 4 to complete a web application in cmd-f 2023 hackathon",
                     "Developed backend with Express.js and Cohere AI's Classify API",
