@@ -44,6 +44,7 @@ const Home = () => (
                                         <div><img src="https://s3.us-west-2.amazonaws.com/kendicey.io/bootstrap.png" alt='bootstrap logo' /></div><li>Bootstrap</li>
                                         <div><img src="https://s3.us-west-2.amazonaws.com/kendicey.io/pug.png" alt='pug logo' /></div><li>Pug</li>
                                         <div><img src="https://s3.us-west-2.amazonaws.com/kendicey.io/react.png" alt='react logo' /></div><li>React.js</li>
+                                        <div><img src="https://s3.us-west-2.amazonaws.com/kendicey.io/react.png" alt='react native logo' /></div><li>React Native</li>
                                         <div><img src="https://s3.us-west-2.amazonaws.com/kendicey.io/redux.png" alt='redux logo' /></div><li>Redux</li>
                                         <div><img src="https://s3.us-west-2.amazonaws.com/kendicey.io/materialui.png" alt='materialui logo' /></div><li>Material UI</li>
                                         <div><img src="https://s3.us-west-2.amazonaws.com/kendicey.io/angular.png" alt='angular logo' /></div><li>AngularJS</li>
