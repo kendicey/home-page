@@ -43,6 +43,7 @@ const Home = () => (
                                         <div><img src="https://s3.us-west-2.amazonaws.com/kendicey.io/sass.png" alt='sass logo' /></div><li>Sass</li>
                                         <div><img src="https://s3.us-west-2.amazonaws.com/kendicey.io/bootstrap.png" alt='bootstrap logo' /></div><li>Bootstrap</li>
                                         <div><img src="https://s3.us-west-2.amazonaws.com/kendicey.io/pug.png" alt='pug logo' /></div><li>Pug</li>
+                                        <div><img src="https://s3.us-west-2.amazonaws.com/kendicey.io/handlebars.png" alt='handlebars logo' /></div><li>HandleBars.js</li>
                                         <div><img src="https://s3.us-west-2.amazonaws.com/kendicey.io/react.png" alt='react logo' /></div><li>React.js</li>
                                         <div><img src="https://s3.us-west-2.amazonaws.com/kendicey.io/react.png" alt='react native logo' /></div><li>React Native</li>
                                         <div><img src="https://s3.us-west-2.amazonaws.com/kendicey.io/redux.png" alt='redux logo' /></div><li>Redux</li>
