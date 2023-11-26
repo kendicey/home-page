@@ -48,6 +48,8 @@ const Home = () => (
                                         <div><img src="https://s3.us-west-2.amazonaws.com/kendicey.io/redux.png" alt='redux logo' /></div><li>Redux</li>
                                         <div><img src="https://s3.us-west-2.amazonaws.com/kendicey.io/materialui.png" alt='materialui logo' /></div><li>Material UI</li>
                                         <div><img src="https://s3.us-west-2.amazonaws.com/kendicey.io/angular.png" alt='angular logo' /></div><li>AngularJS</li>
+                                        <div><img src="https://s3.us-west-2.amazonaws.com/kendicey.io/wordpress.png" alt='wordpress logo' /></div><li>Wordpress</li>
+                                        <div><img src="https://s3.us-west-2.amazonaws.com/kendicey.io/elementor.png" alt='elementor logo' /></div><li>Elementor</li>
                                     </ul>
                                 </div>
                                 <div className='p-2'>
