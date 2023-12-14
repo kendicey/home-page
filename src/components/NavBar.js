@@ -13,7 +13,7 @@ const Navbar = () => (
               <NavLink className="nav-link active" aria-current="page" to="/projects">Projects</NavLink>
               <NavLink className="nav-link" to="/about">About</NavLink>
               <NavLink className="nav-link" to="/contact">Contact</NavLink>
-              <a className="nav-link" href='https://drive.google.com/file/d/1oAq7pfA3oAqgG9UKPDgqu9suBqOd7J1j/view?usp=share_link' target='_blank'>Resume</a>
+              {/* <a className="nav-link" href='https://drive.google.com/file/d/1oAq7pfA3oAqgG9UKPDgqu9suBqOd7J1j/view?usp=share_link' target='_blank'>Resume</a> */}
             </div>
           </div>
         </div>
