@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { HashRouter, Route, Routes } from "react-router-dom";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./css/App.css";
 
@@ -12,7 +12,7 @@ import projects from './projects.json';
 const projectList = projects;
 
 const App = () => (
-  <BrowserRouter>
+  <HashRouter>
     <div className="container">
       <Navbar />
       <Routes>
@@ -23,7 +23,7 @@ const App = () => (
       </Routes>
       <Footer />
     </div>
-  </BrowserRouter>
+  </HashRouter>
 );
 
 
